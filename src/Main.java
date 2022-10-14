@@ -3,6 +3,8 @@ public class Main {
 
         Knight knight = new Knight();
         knight.goAndSavePrincess();
+        knight.goAndSavePrincess();
+        knight.kon();
 
 
     }
