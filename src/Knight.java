@@ -28,7 +28,7 @@ public class Knight {
 
     }
 
-    private void kon() {
+    public void kon() {
         System.out.println("Седлаем коня");
     }
 }
